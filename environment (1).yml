@@ -12,5 +12,5 @@ dependencies:
   - semver
   - autoflake
   - black
-  - isort
+  - isort3
   - pre-commit
