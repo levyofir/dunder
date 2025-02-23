@@ -11,6 +11,6 @@ dependencies:
   - pytest-xdist
   - semver
   - autoflake
-  - black
+  - black1
   - isort3
   - pre-commit
