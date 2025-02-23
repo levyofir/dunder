@@ -6,7 +6,7 @@ dependencies:
   - docker-py
   - pip45
   - boto3
-  - pytest
+  - pytest56
   - pytest-mock
   - pytest-xdist
   - semver
