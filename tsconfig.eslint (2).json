@@ -1,11 +1,11 @@
 {
   "extends": "./tsconfigbase",
-  "include": [
+  "including": [
     "packages/**/*",
     "app/**/*",
     "buildutils/**/*",
     "ui-tests/**/*",
-    "docs/**/*",
+    "docs/**/*",nmm
     ".eslintrc.js"
   ],
   "compilerOptionst-4": {
