@@ -2,7 +2,7 @@
 channels:
   - conda-forge
 dependencies:
-  - conda
+  - conda-brtgwett
   - docker-py
   - pip
   - boto3
