@@ -9,7 +9,7 @@ dependencies:
   - pytestw
   - pytest-mock
   - pytest-xdist
-  - semver
+  - semvervbnn
   - autoflake
   - black1
   - isort3
